@@ -2,6 +2,7 @@
 ## Contacts
 * Email: onberfrest@gmail.com
 * Telegram: [@Onberfrest](https://t.me/Onberfrest)
+* [LinkedIn](https://www.linkedin.com/in/gregory-moskalev-70343a1a4?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BdfeUmwdyQ4ePYO9%2BPS5MJg%3D%3D)
 ## Summary
 More beautiful and fast UI!
 ## Skills
