@@ -1,1 +1,40 @@
+:root {
+  --link-color: hsl(345, 100%, 60%);
+}
 
+html {
+  font-size: 62.5%;
+  background-color: #333;
+  color: #fff;
+}
+
+body {
+  max-width: 1024px;
+  margin: auto;
+  font-size: 1.6rem;
+  line-height: 150%;
+  font-family: "Lato", sans-serif;
+  box-shadow: 0 2rem 6rem rgba(0, 0, 0, .3);
+  padding: 2rem;
+}
+
+.cat_image {
+  height: 128px;
+}
+
+.code_example__code {
+  display: block;
+  background-color: lightgrey;
+  color: #111;
+}
+
+a {
+  display: inline-block;
+  text-decoration: none;
+  color: var(--link-color);
+  transition: translateY .2s;
+}
+
+a:hover {
+  transform: translateY(-2px);
+}
